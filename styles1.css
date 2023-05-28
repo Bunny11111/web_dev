@@ -1,0 +1,58 @@
+ul {
+  position: relative;
+  list-style:disc;
+  padding: 10px;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-right: 10px;
+  border:4px solid #d71ae4;
+}
+body{
+  background-color:aqua;
+  max-width: 1200px;
+  border-radius: 50px;
+  
+}
+.heading{
+  color: rgb(233, 46, 96);
+  text-align: center;
+  font-size: 40px;
+}
+hr{
+  color: beige;
+}
+.name {
+  position: relative;
+  font-size: 30px;
+  top: -130px;
+  left: 250px;
+  color: #fa3509;
+  background-color:#cbdb6b;
+  border: 4px solid #20d923;
+  padding: 20px;
+  border-radius: 50px;
+  font-style: normal;
+}
+.points{
+  position: relative;
+  font-size: 25px;
+  top: -100px;
+  left: 570px;
+  color: #7626d8;
+  color: #fa3509;
+  background-color:#cbdb6b;
+  border: 4px solid #20d923;
+  padding: 20px;
+  border-radius: 50px;
+  font-style: normal;
+}
+
